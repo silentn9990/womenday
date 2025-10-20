@@ -14,7 +14,7 @@ onload = () => {
             var typingTimer;
 
             var letterLines = [
-            "Có lẽ vài ngày qua My đã khá mệt vì đi làm và đi học rồi nhưng hôm nay hay gạt hết những điều đó mà hay tận hưởng hết ngày hôm nay chúc My sẽ có 1 ngày lễ 20/10 thật vui vẻ bên bạn bè thật hạnh phúc bên những người yêu thương🌷🌷🌷"
+            "Có lẽ vài ngày qua My đã khá mệt vì đi làm và đi học rồi nhưng hôm nay hãy gạt hết những điều đó mà hay tận hưởng hết ngày hôm nay chúc My sẽ có 1 ngày lễ 20/10 thật vui vẻ bên bạn bè thật hạnh phúc bên những người yêu thương🌷🌷🌷"
         ];
 
 
