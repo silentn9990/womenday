@@ -14,9 +14,7 @@ onload = () => {
             var typingTimer;
 
             var letterLines = [
-            "Chúc mừng Ngày Phụ nữ Việt Nam 20/10!",
-            "Chúc người đẹp của con luôn mạnh khỏe, luôn trẻ trung xinh đẹp ",
-            "Đặc biệt là trong túi lúc nào cũng có tiền và trong lòng có con hẹ hẹ"
+            "Có lẽ vài ngày qua My đã khá mệt vì đi làm và đi học rồi nhưng hôm nay hay gạt hết những điều đó mà hay tận hưởng hết ngày hôm nay chúc My sẽ có 1 ngày lễ 20/10 thật vui vẻ bên bạn bè thật hạnh phúc bên những người yêu thương🌷🌷🌷"
         ];
 
 
